@@ -28,8 +28,6 @@ I work mainly with Node.js, Express, MongoDB, Docker and API-based architectures
 
 ---
 
-## Tech Stack
-
 ## Core Skills
 
 **Backend**
