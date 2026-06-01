@@ -30,12 +30,25 @@ I work mainly with Node.js, Express, MongoDB, Docker and API-based architectures
 
 ## Tech Stack
 
-**Backend:** Node.js, Express.js, REST APIs
-**Database:** MongoDB, Mongoose, SQL basics
-**Security:** API-Key Auth, JWT, Role-Based Access Control
-**Tools:** Git, GitHub, Docker, Swagger/OpenAPI, Jest, Supertest
-**Frontend Basics:** HTML, CSS, JavaScript
-**Other Experience:** FileMaker, Shopware/WooCommerce API integration, WordPress
+## Core Skills
+
+**Backend**
+Node.js, Express.js, REST APIs
+
+**Databases**
+MongoDB, Mongoose, SQL Basics
+
+**Authentication & Security**
+API-Key Authentication, JWT, RBAC
+
+**Tools & DevOps**
+Git, GitHub, Docker, Swagger/OpenAPI, Jest, Supertest
+
+**Integration**
+FileMaker, Shopware, WooCommerce API Integration
+
+**Frontend Basics**
+HTML5, CSS3, JavaScript
 
 ---
 
