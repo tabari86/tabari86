@@ -63,7 +63,4 @@ My goal is to work as a Junior Backend Developer / API Integration Developer and
 
 ## Contact
 
-Website: https://www.mtintelligence.ai
-LinkedIn: https://www.linkedin.com/in/moj-tabari-04a400227/
-
 📫 [LinkedIn](https://www.linkedin.com/in/moj-tabari-04a400227/) · 🌐 [mtintelligence.ai](http://www.mtintelligence.ai/)
