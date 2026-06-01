@@ -22,9 +22,12 @@
 
 ![SQL](https://img.shields.io/badge/SQL-Database-lightgrey)
 
-Backend Developer based in Germany, focused on building practical REST APIs, backend services and system integrations.
+Backend Developer based in Germany with experience in REST API development, system integration and business applications.
 
-I work mainly with Node.js, Express, MongoDB, Docker and API-based architectures. My current portfolio focuses on backend development, authentication, reporting systems, invoice processing and service-oriented API design.
+I have worked with Node.js, Express, MongoDB, Docker, FileMaker and Shopware integrations, focusing on backend services, authentication, reporting systems and API-driven architectures.
+
+My current focus is building production-oriented backend projects, improving software architecture skills and expanding my portfolio with real-world API and integration solutions.
+
 
 ---
 
