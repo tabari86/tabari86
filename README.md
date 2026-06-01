@@ -1,5 +1,27 @@
 # Hi, I'm Moj Tabari
 
+![Backend](https://img.shields.io/badge/Backend-Developer-blue)
+
+![Node.js](https://img.shields.io/badge/Node.js-22-green?logo=node.js)
+![Express](https://img.shields.io/badge/Express-API-black?logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-Mongoose-green?logo=mongodb)
+![REST API](https://img.shields.io/badge/REST-API-orange)
+
+![Docker](https://img.shields.io/badge/Docker-Ready-blue?logo=docker)
+![Jest](https://img.shields.io/badge/Jest-Testing-red?logo=jest)
+![Swagger](https://img.shields.io/badge/OpenAPI-3.0-brightgreen)
+
+![Git](https://img.shields.io/badge/Git-Version_Control-orange?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)
+
+![Shopware](https://img.shields.io/badge/Shopware-6-blue)
+![FileMaker](https://img.shields.io/badge/FileMaker-Pro-green)
+
+![WordPress](https://img.shields.io/badge/WordPress-CMS-blue?logo=wordpress)
+![API Integration](https://img.shields.io/badge/API-Integration-success)
+
+![SQL](https://img.shields.io/badge/SQL-Database-lightgrey)
+
 Backend Developer based in Germany, focused on building practical REST APIs, backend services and system integrations.
 
 I work mainly with Node.js, Express, MongoDB, Docker and API-based architectures. My current portfolio focuses on backend development, authentication, reporting systems, invoice processing and service-oriented API design.
