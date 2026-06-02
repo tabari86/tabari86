@@ -88,6 +88,22 @@ A REST API for invoice management with CRUD operations and backend structure.
 Repository: https://github.com/tabari86/invoice-api
 
 ---
+## User Management Service
+
+A REST API for user registration, authentication and profile management.
+
+- Node.js + Express
+- MongoDB + Mongoose
+- JWT authentication
+- Password hashing with bcrypt
+- Protected routes
+- Swagger/OpenAPI documentation
+- Jest + Supertest testing
+
+Repository:
+https://github.com/tabari86/user-management-service
+
+---
 
 ## Current Focus
 
