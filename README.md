@@ -105,11 +105,27 @@ https://github.com/tabari86/user-management-service
 
 ---
 
+### FileMaker – Shopware 6 Integration
+
+A portfolio reconstruction of a real FileMaker and Shopware 6 integration project.
+The project demonstrates product and order synchronization, Shopware-style authentication, data mapping, dashboard-triggered sync flows and JSON-based FileMaker simulation.
+
+* Node.js + Express
+* REST API integration
+* Product and order synchronization
+* Data mapping layer
+* FileMaker-style JSON storage
+* Mock/real Shopware mode structure
+
+Repository: https://github.com/tabari86/filemaker-shopware-integration
+
+---
+
 ## Current Focus
 
 I am currently improving my backend portfolio with production-oriented projects, clean documentation, automated tests, Docker support and API integration examples.
 
-My goal is to work as a Junior Backend Developer / API Integration Developer and continue building practical backend systems.
+My goal is to work as a Backend Developer / API Integration Developer and continue building practical backend systems.
 
 ---
 
