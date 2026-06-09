@@ -55,6 +55,32 @@ HTML5, CSS3, JavaScript
 
 ## Featured Projects
 
+---
+
+### Inventory Management API
+
+A production-oriented backend API for inventory and warehouse management.
+
+This project models realistic stock workflows instead of simple CRUD operations. Products and warehouses are connected through stock records, while goods receipts and goods issues create stock movement history and update the current inventory state.
+
+- Node.js + Express
+- MongoDB + Mongoose
+- Product, warehouse, stock and stock movement APIs
+- Goods receipt and goods issue workflows
+- JWT authentication + refresh token rotation
+- Role-Based Access Control (RBAC)
+- Swagger / OpenAPI documentation
+- Docker and Docker Compose support
+- Jest + Supertest integration tests
+- GitHub Actions CI workflow
+- Render deployment with MongoDB Atlas
+
+Repository: https://github.com/tabari86/inventory-management-api 
+
+Live API Docs: https://inventory-management-api-6zuo.onrender.com/api-docs
+
+---
+
 ### Reporting Service API
 
 A backend microservice for invoice analytics and reporting.
@@ -70,38 +96,6 @@ A backend microservice for invoice analytics and reporting.
 * Docker support
 
 Repository: https://github.com/tabari86/reporting-service-api
-
----
-
-### Invoice API
-
-A REST API for invoice management with CRUD operations and backend structure.
-
-* Node.js + Express
-* MongoDB
-* RESTful API design
-* Middleware structure
-* Swagger documentation
-* Docker support
-* Automated tests
-
-Repository: https://github.com/tabari86/invoice-api
-
----
-## User Management Service
-
-A REST API for user registration, authentication and profile management.
-
-- Node.js + Express
-- MongoDB + Mongoose
-- JWT authentication
-- Password hashing with bcrypt
-- Protected routes
-- Swagger/OpenAPI documentation
-- Jest + Supertest testing
-
-Repository:
-https://github.com/tabari86/user-management-service
 
 ---
 
@@ -121,11 +115,46 @@ Repository: https://github.com/tabari86/filemaker-shopware-integration
 
 ---
 
+## User Management Service
+
+A REST API for user registration, authentication and profile management.
+
+- Node.js + Express
+- MongoDB + Mongoose
+- JWT authentication
+- Password hashing with bcrypt
+- Protected routes
+- Swagger/OpenAPI documentation
+- Jest + Supertest testing
+
+Repository:
+https://github.com/tabari86/user-management-service
+
+---
+
+
+### Invoice API
+
+A REST API for invoice management with CRUD operations and backend structure.
+
+* Node.js + Express
+* MongoDB
+* RESTful API design
+* Middleware structure
+* Swagger documentation
+* Docker support
+* Automated tests
+
+Repository: https://github.com/tabari86/invoice-api
+
+---
+
+
 ## Current Focus
 
-I am currently improving my backend portfolio with production-oriented projects, clean documentation, automated tests, Docker support and API integration examples.
+I am currently strengthening my backend portfolio with production-oriented REST API projects, focusing on system integration, authentication, authorization, business logic, automated testing, Docker, CI workflows and deployment.
 
-My goal is to work as a Backend Developer / API Integration Developer and continue building practical backend systems.
+My goal is to work as a Backend Developer / API Integration Developer and build reliable backend systems for real-world business processes.
 
 ---
 
